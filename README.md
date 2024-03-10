@@ -4,7 +4,11 @@ Este proyecto es una iniciativa libre en la que me embarcaré para desarrollar h
 
 ## Acerca de mí
 
-¡Hola! Mi nombre es Juan David Ruiz Giraldo, soy estudiante de sexto semestre de Ingeniería de Sistemas y tengo 21 años.
+¡Hola! Mi nombre es Juan David Ruiz Giraldo, estoy en la sexta matrícula de la carrera de Ingeniería de Sistemas y tengo 21 años.
+
+## Contacto
+
+Puedes contactarme a través de [mi correo electrónico](mailto:juruizgi@unal.edu.co) para cualquier consulta, colaboración o sugerencia relacionada con este proyecto.
 
 ## Objetivo
 
@@ -21,10 +25,6 @@ El objetivo principal de este proyecto es aplicar los conocimientos adquiridos e
 ## Contribuciones
 
 Si tienes sugerencias, ideas o simplemente quieres participar en el proyecto, ¡no dudes en ponerte en contacto conmigo! Estoy abierto a colaboraciones y nuevas perspectivas que puedan enriquecer esta iniciativa.
-
-## Contacto
-
-Puedes contactarme a través de [mi correo electrónico](correo@ejemplo.com) para cualquier consulta, colaboración o sugerencia relacionada con este proyecto.
 
 ¡Gracias por tu interés!
 
