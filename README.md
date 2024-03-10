@@ -8,7 +8,7 @@ Este proyecto es una iniciativa libre en la que me embarcaré para desarrollar h
 
 ## Contacto
 
-Puedes contactarme a través de [mi correo electrónico](mailto:juruizgi@unal.edu.co) para cualquier consulta, colaboración o sugerencia relacionada con este proyecto.
+Puedes contactarme a través de mi correo (juruizgi@unal.edu.co) para cualquier consulta, colaboración o sugerencia relacionada con este proyecto.
 
 ## Objetivo
 
